@@ -1,3 +1,4 @@
 I love myself
-Created a new brach tester, switched to the branch and now modifying the file once in tester branch
+
 After the changes in tester4 branch , changing the same file in master branch to test the merge conflicts.
+
