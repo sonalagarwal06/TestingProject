@@ -1,1 +1,2 @@
 Sample File - first statement
+Adding second line again after deleting the changes using git restore command.
